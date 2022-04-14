@@ -1,0 +1,11 @@
+.logo{
+    display: block;
+    height: 4rem;
+}
+
+.submitButton{
+    color: white;
+    background-color: orange;
+    border-radius: 2rem;
+    box-shadow: 0 12px 20px rgb(255 116 0 / 30%);
+}

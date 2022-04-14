@@ -1,0 +1,22 @@
+.input_form{
+    background-color: #f6f6f6;
+    color: #555;
+    border: 1px solid #d7d7d7;
+    width: 100%;
+    padding: 6px 12px;
+}
+.input_form1{
+    background-color: #f6f6f6;
+    color: #555;
+    border: 1px solid #d7d7d7;
+    width: 100%;
+    padding: 6px 12px;
+    height: 10rem;
+}
+
+.submitButton{
+    color: white;
+    background-color: orange;
+    border-radius: 2rem;
+    box-shadow: 0 12px 20px rgb(255 116 0 / 30%);
+}

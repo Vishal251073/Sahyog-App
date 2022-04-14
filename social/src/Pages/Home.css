@@ -1,0 +1,26 @@
+.fix_height{
+    height:30rem;
+}
+.set_img{
+    max-height: 30rem;
+}
+
+.card_img{
+    width: 200px; height: 250px
+}
+
+.align_card{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text_mobile{
+    width: 64rem;
+}
+@media (max-width:1200px) {
+    .card_res{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+  }

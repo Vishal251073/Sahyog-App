@@ -1,0 +1,4 @@
+.align_card{
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.chat{
+  display: block;
+  position: fixed;
+  z-index: 999;
+  padding-right: 0;
+  padding-bottom: 0;
+  right: 15px;
+  bottom: 10px;
+  color: white;
+  width: 8rem;
+  border-radius: 5px;
+  background-color:#29a71a;
+}
+.chat_b{
+  height: 2rem;
+}
+.linee{
+  line-height: 2;
+  text-decoration: none; 
+  color: white;
+}
